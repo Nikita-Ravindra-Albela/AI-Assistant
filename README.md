@@ -12,7 +12,7 @@ This AI Assistant helps solve those challenges by:
 
 Assisting in automated data cleaning
 Tracking transformation history and lineage
-Improving traceability across datasets
+Improving traceability across datasets 
 Reducing manual preprocessing effort
 Supporting faster and more reliable analytics workflows
 
