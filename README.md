@@ -146,6 +146,7 @@ Data lineage concepts
 Workflow automation
 Frontend-backend integration
 Practical applications of AI in analytics
+
 About Me
 
 I am a Data Analyst focused on transforming raw data into actionable business insights through analytics, automation, and AI-assisted workflows.
@@ -159,5 +160,3 @@ Power BI
 Python
 AI for Analytics
 Workflow Automation
-
-GitHub: AI Assistant Repository
